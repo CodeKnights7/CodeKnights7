@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Javascript<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning React Js<br>💬 Ask me about Javascript and Networking<br>⚡ Fun fact "Talk is cheap. Show me the code." - Linus Torvalds
+🔭 I’m currently working on Javascript<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning React Js<br>💬 Ask me about Javascript and Networking<br>⚡ Fun fact: "Talk is cheap. Show me the code." - Linus Torvalds
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -9,6 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
+![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=%23F90) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
@@ -30,6 +31,16 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codeknights7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 📫 How to Reach Me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codeknights7)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codeknights7)
+[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://codeknights7.github.io)
+
+## 🎨 Recent Projects:
+- [Project Name](https://github.com/codeknights7/project-repo): Brief description of the project.
+- [Another Project](https://github.com/codeknights7/another-project-repo): Brief description of another project.
+- [Yet Another Project](https://github.com/codeknights7/yet-another-project-repo): Brief description of yet another project.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codeknights7&icon=2&color=7)](https://visitcount.itsvg.in)
