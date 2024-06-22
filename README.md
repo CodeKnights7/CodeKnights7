@@ -14,6 +14,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Networking](https://img.shields.io/badge/networking-%2300A7E1.svg?style=for-the-badge&logo=cisco&logoColor=white) 
+![Check Point](https://img.shields.io/badge/check--point-%23E10098.svg?style=for-the-badge&logo=check-point&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -32,15 +35,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codeknights7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 📫 How to Reach Me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codeknights7)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codeknights7)
-[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://codeknights7.github.io)
-
-## 🎨 Recent Projects:
-- [Project Name](https://github.com/codeknights7/project-repo): Brief description of the project.
-- [Another Project](https://github.com/codeknights7/another-project-repo): Brief description of another project.
-- [Yet Another Project](https://github.com/codeknights7/yet-another-project-repo): Brief description of yet another project.
+.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codeknights7&icon=2&color=7)](https://visitcount.itsvg.in)
